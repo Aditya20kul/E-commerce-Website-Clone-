@@ -16,4 +16,4 @@
 <h3>Admin Area</h3><br/>
 <img src='admin-area.png'><br/>
 <h3>Order/Payment</h3><br/>
-<img src='order.png'><br/>
+<img src='cart.png'><br/>
